@@ -67,7 +67,7 @@ export default {
           title: "Machine Learning Workshop",
           description: "Introduction to Machine Learning and Classical ML Algorithms",
           techstack: ['Python', 'Jupyter'],
-          image: 'wac_workshop.png'
+          image: 'wac_workshop.jpg'
         },
         {
           title: "Programming, DS with Python",
