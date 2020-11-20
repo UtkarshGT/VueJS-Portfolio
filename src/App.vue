@@ -38,7 +38,7 @@ export default {
       // For Content Area
       projects: [
         {
-          title: "This Portfolio App",
+          title: "Nov-2020: This Portfolio App",
           description: "Made to Learn VueJS and basic designing",
           techstack: ['Vue JS', 'HTML', 'UIkit CSS', 'npm'],
           links: [
@@ -53,25 +53,25 @@ export default {
         },
         {
           title: "Machine Learning using Pytorch",
-          description: "Built Neural Networks especially CNNs and submitted project",
+          description: "July-2020: Built Neural Networks especially CNNs and submitted project",
           techstack: ['Python', 'Pytorch library'],
           image: "jovian.jpg"
         },
         {
           title: "30 Days of Kotlin",
-          description: "Learned Kotlin and submitted an Android app project",
+          description: "Jun-2020: Learned Kotlin and submitted an Android app project",
           techstack: ['Kotin'],
           image: 'kotlin.jpg'
         },
         {
           title: "Machine Learning Workshop",
-          description: "Introduction to Machine Learning and Classical ML Algorithms",
+          description: "Jan-2020: Introduction to Machine Learning and Classical ML Algorithms",
           techstack: ['Python', 'Jupyter'],
           image: 'wac_workshop.jpg'
         },
         {
           title: "Programming, DS with Python",
-          description: "First time introduced to DS/Algorithms, used Python to solve academic numericals",
+          description: "Mar-2019: First time introduced to DS/Algorithms, used Python to solve academic numericals",
           techstack: ['Python'],
           image: 'nptel_jan2019.jpg'
         }
