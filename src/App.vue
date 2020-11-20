@@ -38,8 +38,8 @@ export default {
       // For Content Area
       projects: [
         {
-          title: "Nov-2020: This Portfolio App",
-          description: "Made to Learn VueJS and basic designing",
+          title: "This Portfolio App",
+          description: "Nov-2020: Made to Learn VueJS and basic designing",
           techstack: ['Vue JS', 'HTML', 'UIkit CSS', 'npm'],
           links: [
             // Object with 'title' and 'link' attributes
