@@ -68,19 +68,11 @@ export default {
  }
 
  .user-name {
-   color: white;
    padding: 0.1em 0.3em;
    border-radius: 5px;
-   background-color: coral;
+   background-color: #dee2ff;
    margin-bottom: 0;
  }
-
-.ut-badge {
-  background-color: cornflowerblue;
-  color: white;
-  border-radius: 20px;
-  padding: 0 5px;
-}
 
 .punchline {
   font-family: 'Courier New', Courier, monospace;
