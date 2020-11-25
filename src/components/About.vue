@@ -13,7 +13,7 @@
           <span v-for="(tech, index) in project.techstack" v-bind:key='index' class="uk-label uk-margin-right">{{ tech }}</span>
         </div>
         <p v-if="project.description">{{ project.description }}</p>
-        <a v-for="(link, index) in project.links" v-bind:key="index" :href="link.link" class="uk-button uk-button-default">{{ link.linkTitle }}</a>
+        <a :href="project.link" target="_blank" class="uk-button uk-button-primary">View Certificate</a>
         <div v-if="project.image" uk-lightbox><a class="uk-button uk-button-primary" :href="require(`@/assets/certificates/${project.image}`)">View Certificate</a></div>
         <hr>
       </div>

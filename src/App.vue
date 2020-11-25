@@ -38,16 +38,16 @@ export default {
       // For Content Area
       projects: [
         {
+          title: "FreeCodeCamp Responsive Web Design",
+          description: "Nov-2020: Learnt Applied Visual Design, Accessibility, CSS Flexbox and Grid",
+          techstack: ["HTML", "CSS"],
+          link: "https://www.freecodecamp.org/certification/fcc0300e508-101f-4f93-be98-80a3720b2de4/responsive-web-design"
+
+        },
+        {
           title: "This Portfolio App",
           description: "Nov-2020: Made to Learn VueJS and basic designing",
           techstack: ['Vue JS', 'HTML', 'UIkit CSS', 'npm'],
-          links: [
-            // Object with 'title' and 'link' attributes
-            // {
-            //   title: '',
-            //   link: '#'
-            // }
-          ],
           // image name stored in certificates folder
           image: ""
         },
